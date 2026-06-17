@@ -43,4 +43,7 @@ The website adapts to:
 
 ## Screenshots
 
-(Add your screenshots here)
+<img width="852" height="858" alt="image" src="https://github.com/user-attachments/assets/2b00a51f-5124-4805-8f9f-7741bf3749aa" />
+<img width="953" height="698" alt="image" src="https://github.com/user-attachments/assets/f9f35efa-24a9-4d53-9c7a-8913d54e1e70" />
+
+
